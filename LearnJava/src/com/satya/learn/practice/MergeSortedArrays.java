@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
+ * <h3><a href='http://www.practice.geeksforgeeks.org/problem-page.php?pid=700450'>Merge Sorted Arrays</a></h3>
  * Given K sorted arrays arranged in a form of a matrix, your task is to merge
  * them. You need to complete mergeKArrays function which takes 2 arguments, an
  * arr[k][k] 2D Matrix containing k sorted arrays and an integer k denoting the
@@ -20,7 +21,7 @@ import java.util.Scanner;
  * 
  * <b>Output:</b> The output will be the sorted merged array.<br/>
  * 
- * <b>Constraints</b> 1<=T<=50 1<=N<=10
+ * <b>Constraints</b></br> 1<=T<=50</br> 1<=N<=10</br>
  * 
  * @author Satyendra Sharma
  *
